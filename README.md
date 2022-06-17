@@ -1,6 +1,7 @@
 ### Indium Nuker
 - Faster than Lithium (under a security bot);
 - Both the nukers have same banning speed.
+- This nuker is inspired by lithium.
 
 ### Ban Speed Preview
 ![Indium Nuker](https://cdn.discordapp.com/attachments/934347016866238465/984859611305762897/indiumBOx.gif)
