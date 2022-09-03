@@ -1,5 +1,5 @@
 ### shittylithfanboy Nuker
-- slower than Lithium (under a security bot);
+- slower than Lithium (under all circumstances);
 - the nukers have an extreme speed difference (same with the owners mental speed).
 - This nuker is basically a lith fanpage
 
