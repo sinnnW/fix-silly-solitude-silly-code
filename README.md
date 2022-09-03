@@ -1,14 +1,14 @@
-### Indium Nuker
-- Faster than Lithium (under a security bot);
-- Both the nukers have same banning speed.
-- This nuker is inspired by lithium.
+### shittylithfanboy Nuker
+- slower than Lithium (under a security bot);
+- the nukers have an extreme speed difference (same with the owners mental speed).
+- This nuker is basically a lith fanpage
 
 ### Ban Speed Preview
 ![Indium Nuker](https://cdn.discordapp.com/attachments/934347016866238465/984859611305762897/indiumBOx.gif)
 - *This video was recorded by flawless & i converted it to gif  ;)*
 
 ### Features
-- mass member banner
+- single member banner
 - community spammer
 - mass channel create
 - mass chnannel delete
@@ -19,9 +19,9 @@
 - make sure to enable all intents
 
 ### Notes
-- I Made this tool only for testing and idek why im putting this on github.com
-- Sine it's faster than the *fastest nuker on cord*, it gets rate limited from massbanning soon (like lithium)
-- I Don't hate lithium. This nuker is inspired by lith & yes JavaScript is faster than C# LMAO
+- I Made this tool to try get big off someone elses name system 
+- Sine it's slower than the *fastest nuker on cord*, it gets rate limited from massbanning soon (like lithium)
+- I Don't hate lithium. This nuker is inspired by lith & yes i copied alot of trends and methods from lithium
 - To bypass ratelimit on replit.com, do `kill 1`
 
 
